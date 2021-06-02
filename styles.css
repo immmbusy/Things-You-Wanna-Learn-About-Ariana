@@ -1,0 +1,37 @@
+.h2 {
+    display: flex;
+    border: 5px dashed black;
+    padding: 10px;
+    Background-color: lightgrey;
+    width: 500px;
+    height: 170px;
+
+
+}
+
+marquee {
+    background-color: #ffcccc;
+}
+
+Body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ACXdxEeHRlySu2kZitvmT0LDFSLNVlWfEw&usqp=CAU");
+
+}
+.color:hover {
+    background-color: #ffc7e7;}
+
+.Color:hover { background-color:black;}
+.FS {
+    margin: 10px;
+    padding: 8px;
+    border: 1px black solid;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border-radius: 90%;
+    width: 100px;
+    height: 100px;
+    border: 3px dashed;
+}
